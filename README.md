@@ -4,11 +4,9 @@
 
 <!-- TITLE -->
 <div align="center">
-  <h1 align="center" alt="title">
 
-  V  I  S  U  A  L  I  Z  A  C  A  O    C  O  M  P  U  T  A  C  I  O  N  A  L
+# V  I  S  U  A  L  I  Z  A  C  A  O - C  O  M  P  U  T  A  C  I  O  N  A  L
 
-  </h1>
 </div>
 
 
