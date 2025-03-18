@@ -9,13 +9,9 @@
 
 </div>
 
-
 Visão computacional é a ciência e tecnologia das máquinas que enxergam. Ela desenvolve teoria e tecnologia para a construção de sistemas artificiais que obtém informação de imagens ou quaisquer dados multidimensionais.
 
-
 ---
-
-<!-- LINKS UTEIS -->
 
 <br>
 
@@ -57,25 +53,27 @@ Visão computacional é a ciência e tecnologia das máquinas que enxergam. Ela 
 >
 >> Aula 09 - [Ferramentas para Visualização de Dados Power BI - Tutorial](https://www.youtube.com/watch?v=vp-HW9vYc_8)<br>
 >
->> Aula 10 - []()<br>
+>> Aula 10 - [Ferramentas para visualização de dados - Power BI - Exemplo prático](https://www.youtube.com/watch?v=F82wXGJNFSA)<br>
 >
->> Aula 11 - []()<br>
+>> Aula 11 - [Bibliotecas de visualização de dados do Python](https://www.youtube.com/watch?v=OlY_pPm6Vec)<br>
 >
->> Aula 12 - []()<br>
+>> Aula 12 - [Visualização de dados com Python](https://www.youtube.com/watch?v=OUnjCjQ73CQ)<br>
 
 <!-- SEMANA 06 -->
 >&#128310; **Semana 06**: Exemplos de visualização e análise de dados
->> Aula 13 - []()<br>
+>> [Portal Brasileiro de Dados Abertos](https://dados.gov.br/signin)<br>
+> 
+>> Aula 13 - [Construção de um ambiente de BI para Secretaria de Assistência Social da Prefeitura Municipal de São Paulo](https://www.youtube.com/watch?v=NG7vlpnjIrY)<br>
 >
->> Aula 14 - []()<br>
+>> Aula 14 - [Usando Bundling para visualizar viagens na Região Metropolitana de São Paulo](https://www.youtube.com/watch?v=-eN-hBY3aUI)<br>
 >
->> Aula 15 - []()<br>
+>> Aula 15 - [Visualizando dados de viagens de bicicletas na cidade de São Paulo](https://www.youtube.com/watch?v=rJ6PRXaQrio)<br>
 
 <!-- SEMANA 07 -->
 >&#128311; **Semana 07**: Entrevistas com especialistas
->> Aula 16 - []()<br>
+>> Aula 16 - [Visualizando dados para apoio a políticas públicas para mobilidade urbana em São Paulo](https://www.youtube.com/watch?v=sAfBuvHA9N0)<br>
 >
->> Aula 17 - []()<br>
+>> Aula 17 - [Entrevista com Marcos Aurélio Paixão, da Associação Brasileira de Ciência de Dados (ABRACD)](https://www.youtube.com/watch?v=vK3O3ta3O9w)<br>
 
 ---
 
